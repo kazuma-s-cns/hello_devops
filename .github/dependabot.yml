@@ -1,0 +1,8 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"# TODO-1
+    directory: "/"
+    schedule:
+      interval: "daily"# TODO-2
+    assignees:
+      - "kazuma-s-cns"# TODO-3
